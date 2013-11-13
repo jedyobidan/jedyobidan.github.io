@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp spec = "6.0+" codebase = "http://megaman.cu.cc" href = "megaman-multiplayer.jnlp">
+	<information>
+		<title>Mega Man Multiplayer</title>
+		<vendor>Jedyobidan</vendor>
+		<icon href = "icon.gif" width = "32" height = "32" size = "223"/>
+		<offline-allowed />
+		<shortcut>
+			<desktop />
+		</shortcut>
+	</information>
+	<resources>
+		<j2se version = "1.6+" />
+		<jar href = "megaman-multiplayer.jar" size = "2821816"/>
+	</resources>
+	<application-desc main-class="jedyobidan.megaman.game.Menu"></application-desc>
+</jnlp>

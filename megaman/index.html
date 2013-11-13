@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mega Man Multiplayer</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/png" href="icon.gif" />
+		<script type="text/javascript" src = "scripts/jquery.js"></script>
+		<script type="text/javascript" src = "scripts/easySlider1.7.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("#slider").easySlider({
+					continuous: true,
+					speed: 400,
+					auto: true,
+					controlsShow: false,
+					pause: 3000
+				});
+			});
+		</script>
+		<style type="text/css">
+		body{
+			width: 600px;
+		}
+		</style>
+		
+	</head>
+	<body>
+		<div id = "all">
+			<div id = "header">
+				<a href = "index.html"><img src = "logo.png" alt = "Megaman Multiplayer" width ="583px" height = "127px"></a>
+			</div>
+			<div id = "navigation">
+				<a href="index.html">Home</a> | 
+				<a href = "help.html">Instruction Manual</a> |
+				<a href = "characters.html">Characters</a> |
+				<a href = "credits.html">Credits</a>
+			</div>
+			<div class = "bg">
+				<div id = "about">
+					<h2>About</h2>
+					<p>
+						Get ready for an all new Mega Man experience! Mega Man Multiplayer is a platform based combat game in which players fight each other using different Mega Men. Choose your character and be prepared for a duel to the death on one of the several unique stages!
+					</p>
+					<p> Features: </p>
+					<ul>
+						<li>Two Mega men to choose from, each with their own unique characteristics and weapons (more to come later!)</li>
+						<li>Three unique stages and the ability to install more!</li>
+						<li>Customizable controls</li>
+						<li>Automatic updating through Java Web Start</li>
+					</ul>
+				</div>
+				<div id = "screenshots">
+					<h2>Screenshots</h2>
+					<div id = "slider">
+						<ul>
+							<li><img src = "screenshots/0.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/1.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/4.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/5.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/3.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/6.png" width = "550px" height = "375px"></li>
+							<li><img src = "screenshots/2.png" width = "550px" height = "375px"></li>
+						</ul>
+					</div>
+				</div>
+				<div id = "downloads">
+					<h2>Downloads</h2>
+					<h3>Game</h3>
+					<ul>
+						<li><a href="megaman-multiplayer.jnlp">Java Web Start Version (Recommended)</a></li>
+						<li><a href = "megaman-multiplayer.jar">Jar Version</a></li>
+					</ul>	
+					
+					<h3>Stages</h3>
+					<ul>
+						<li><a href="stages/Battlefield.stg">Battlefield</a></li>
+						<li><a href="stages/Concourse.stg">Concourse</a></li>
+						<li><a href="stages/Final_Destination.stg">Final Destination</a></li>
+					</ul>		
+				</div>
+			</div>
+			<div id = "footer">
+				All Java code and HTML by Chenyang Wang | All other credit given where credit is due<br>
+				Mega Man Multiplayer is not affiliated with Capcom. All Mega Man characters and concepts are the property of Capcom.<br>
+				Email all questions and comments to jedyobidan(at)gmail.com
+			</div>
+		</div>
+	</body>
+</html>	
