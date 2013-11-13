@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<jnlp spec = "6.0+" codebase = "http://megaman.cu.cc" href = "megaman-multiplayer.jnlp">
+<jnlp spec = "6.0+" codebase = "http://jedyobidan.github.io/megaman" href = "megaman-multiplayer.jnlp">
 	<information>
 		<title>Mega Man Multiplayer</title>
 		<vendor>Jedyobidan</vendor>
