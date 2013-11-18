@@ -1,0 +1,33 @@
+Group A - Infantry
+Chrom		Great Lord		Sword/Lance
+Young		Grandmaster		Sword/Magic
+Lucina		Great Lord		Sword/Lance
+Owain		Assasin			Sword/Bow	
+Donnel		Hero			Sword/Axe
+Maribelle	Sage			Magic/Staff
+Libra		Sorceror		Magic (Dark)
+Brady		Sorceror		Magic (Dark)
+
+Group B - Cavalry
+Morgan		Dark Knight		Lance/Magic
+Sumia		Dark Flier		Lance/Magic
+Cynthia		Great Knight	Sword/Lance/Axe
+Stahl		Paladin			Sword/Lance
+Sully		Paladin			Sword/Lance
+Lissa		Valkyrie		Staff/Magic
+
+*Temporary, until surpassed by Orwain
+
+Marriages
+Chrom + Sumia = Lucina + Cynthia
+Young + Lucina = Morgan
+Lissa + Donnel = Orwain
+Libra + Maribelle = Brady
+
+
+Galeforce
+1. Sumia (no effect)
+2. Lissa (pass to Orwain)
+3. Lucina (pass to Morgan?)
+4. Cynthia
+5. Morgan
