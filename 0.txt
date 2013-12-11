@@ -3,6 +3,7 @@ Chrom			Great Lord		Sword, Lance	Aether, Luna, Righful King, Dual Strike+, Dual 
 	Lord > Cavalier > Great Knight > Great Lord
 FeMU			Hero			Sword, Magic	Galeforce, Astra, Swordfaire, Vantage, Rally Spectrum
 	Tactician > Pegasus Knight > Dark Flier > Myrmidon > Swordmaster > Grandmaster
+	Pass Galeforce
 FeMU!Lucina		Great Lord		Sword, Lance	Aether, Rightful King, Galeforce, Swordfaire, Sol
 	Lord > Pegasus Knight > Dark Flier > Swordmaster > Hero > Great Lord 
 Chrom!Morgan	Sage			Staff, Magic	Rightful King, Aegis, Pavise, Luna, Galeforce
@@ -13,6 +14,7 @@ Stahl			Paladin			Lance, Sword	Luna, Aegis, Dual Guard+, Astra
 	Cavalier > Great Knight > Swordmaster > Paladin
 Cordelia		Falcon Knight	Lance, Staff	Sol, Lancefaire, Galeforce, Armsthrift
 	Pegasus Knight > Dark Flier > Mercenary > Hero > Falcon Knight
+	Pass Galeforce
 Stahl!Severa	Hero			Sword, Axe		Sol, Swordfaire, Galeforce, Armsthrift, Vantage
 	Mercenary > Myrmidon > Swordmaster > Hero
 
@@ -21,16 +23,26 @@ Sully			Great Knight	All				Luna, Aegis, Dual Guard+, Astra
 	Cavalier > Paladin > Swordmaster> Great Knight
 Donnel			Warrior			Axe, Bow		Sol, Counter, Armsthrift, Zeal...?
 	Villager > Fighter > Hero > Warrior
+	Pass Aptitude
 Donnel!Kjelle	General			Lance, Axe		Pavise, Aegis, Sol, Galeforce, Armsthrift
 	Knight > Mercenary > Hero > Paladin > Dark Flier > General
 
-#Magic OP Family
-Lissa			Sage			Staff, Magic	Tomefaire, Dual Support+, Miracle, Renewal
-	Cleric > Valkyrie > War Cleric > Sage
-Henry			Sorceror		Magic, Dark		Wrath, Vengeance, Anathema, Move +1? Locktouch?
-	Dark Mage > Sorceror
-Henry!Owain		Sorceror		Magic, Dark		Wrath, Vantage, Vengeance, Anathema, Astra
-	Myrmidon > Swordmaster > Berserker > Dark Mage > Sorceror
+#Magic OP Mega Family
+Henry: Pass... Wrath?
+Ricken: Pass meh
+
+Sumia			Falcon Knight	Lance, Staff	Lancefaire, Luna, Galeforce
+	Pegasus Knight > Dark Flier > Great Knight > Falcon Knight
+	Pass Galeforce
+Henry!Cynthia	Dark Flier		Lance, Magic	Luna, Galeforce, Tomefaire, Dual Guard+, Wrath
+	Pegasus Knight > Knight > Great Knight > Dark Flier
+Lissa			Sage			Staff, Magic	Tomefaire, Dual Support+, Miracle, Renewal, Galeforce
+	Cleric > Pegasus Knight > Dark Flier> Valkyrie > War Cleric > Sage
+	Pass Galeforce
+Ricken!Owain	Sage			Magic, Staff	Vantage, Wrath, Galeforce, Luna/Astra, Tomefaire
+	Myrmidon > Swordmaster > Berserker > Sage
+
+
 
 Anna			Trickster		Sword, Axe		Locktouch, Lucky 7, Acrobat, Lethality, Pass
 	Trickster > Assasin > Trickster
@@ -40,5 +52,5 @@ Chrom - FeMU
 Stahl - Cordelia
 Sully - Donnel
 Lissa - Henry
-Lucina - Owain
+Cynthia - Owain
 Morgan - Severa
