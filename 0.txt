@@ -1,33 +1,44 @@
-Group A - Infantry
-Chrom		Great Lord		Sword/Lance
-Young		Grandmaster		Sword/Magic
-Lucina		Great Lord		Sword/Lance
-Owain		Assasin			Sword/Bow	
-Donnel		Hero			Sword/Axe
-Maribelle	Sage			Magic/Staff
-Libra		Sorceror		Magic (Dark)
-Brady		Sorceror		Magic (Dark)
+#Nobles Family
+Chrom			Great Lord		Sword, Lance	Aether, Luna, Righful King, Dual Strike+, Dual Guard+
+	Lord > Cavalier > Great Knight > Great Lord
+FeMU			Hero			Sword, Magic	Galeforce, Astra, Swordfaire, Vantage, Rally Spectrum
+	Tactician > Pegasus Knight > Dark Flier > Myrmidon > Swordmaster > Grandmaster
+FeMU!Lucina		Great Lord		Sword, Lance	Aether, Rightful King, Galeforce, Swordfaire, Sol
+	Lord > Pegasus Knight > Dark Flier > Swordmaster > Hero > Great Lord 
+Chrom!Morgan	Sage			Staff, Magic	Rightful King, Aegis, Pavise, Luna, Galeforce
+	Tactician > Cavalier > Great Knight > Paladin > General > Sage
 
-Group B - Cavalry
-Morgan		Dark Knight		Lance/Magic
-Sumia		Dark Flier		Lance/Magic
-Cynthia		Great Knight	Sword/Lance/Axe
-Stahl		Paladin			Sword/Lance
-Sully		Paladin			Sword/Lance
-Lissa		Valkyrie		Staff/Magic
+#Sol + faire Family
+Stahl			Paladin			Lance, Sword	Luna, Aegis, Dual Guard+, Astra
+	Cavalier > Great Knight > Swordmaster > Paladin
+Cordelia		Falcon Knight	Lance, Staff	Sol, Lancefaire, Galeforce, Armsthrift
+	Pegasus Knight > Dark Flier > Mercenary > Hero > Falcon Knight
+Stahl!Severa	Hero			Sword, Axe		Sol, Swordfaire, Galeforce, Armsthrift, Vantage
+	Mercenary > Myrmidon > Swordmaster > Hero
 
-*Temporary, until surpassed by Orwain
+#Axe Family
+Sully			Great Knight	All				Luna, Aegis, Dual Guard+, Astra
+	Cavalier > Paladin > Swordmaster> Great Knight
+Donnel			Warrior			Axe, Bow		Sol, Counter, Armsthrift, Zeal...?
+	Villager > Fighter > Hero > Warrior
+Donnel!Kjelle	General			Lance, Axe		Pavise, Aegis, Sol, Galeforce, Armsthrift
+	Knight > Mercenary > Hero > Paladin > Dark Flier > General
 
-Marriages
-Chrom + Sumia = Lucina + Cynthia
-Young + Lucina = Morgan
-Lissa + Donnel = Orwain
-Libra + Maribelle = Brady
+#Magic OP Family
+Lissa			Sage			Staff, Magic	Tomefaire, Dual Support+, Miracle, Renewal
+	Cleric > Valkyrie > War Cleric > Sage
+Henry			Sorceror		Magic, Dark		Wrath, Vengeance, Anathema, Move +1? Locktouch?
+	Dark Mage > Sorceror
+Henry!Owain		Sorceror		Magic, Dark		Wrath, Vantage, Vengeance, Anathema, Astra
+	Myrmidon > Swordmaster > Berserker > Dark Mage > Sorceror
 
+Anna			Trickster		Sword, Axe		Locktouch, Lucky 7, Acrobat, Lethality, Pass
+	Trickster > Assasin > Trickster
 
-Galeforce
-1. Sumia (no effect)
-2. Lissa (pass to Orwain)
-3. Lucina (pass to Morgan?)
-4. Cynthia
-5. Morgan
+Pair ups
+Chrom - FeMU
+Stahl - Cordelia
+Sully - Donnel
+Lissa - Henry
+Lucina - Owain
+Morgan - Severa
