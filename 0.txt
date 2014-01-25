@@ -6,8 +6,8 @@ FeMU			Hero			Sword, Magic	Galeforce, Astra, Swordfaire, Vantage, Rally Spectrum
 	Pass Galeforce
 FeMU!Lucina		Great Lord		Sword, Lance	Aether, Rightful King, Galeforce, Swordfaire, Sol
 	Lord > Pegasus Knight > Dark Flier > Swordmaster > Hero > Great Lord 
-Chrom!Morgan	Sage			Staff, Magic	Rightful King, Aegis, Pavise, Luna, Galeforce
-	Tactician > Cavalier > Great Knight > Paladin > General > Sage
+Chrom!Morgan	Sorceror		Staff, Magic	Galeforce, Armsthrift, Wrath, Veangeance, Vantage
+	Tactician > Cavalier > Paladin > Berserker5 > Mercenary > Myrmidon > Dark Mage > Sorceror
 
 #Sol + faire Family
 Stahl			Paladin			Lance, Sword	Luna, Aegis, Dual Guard+, Astra
@@ -39,7 +39,7 @@ Henry!Cynthia	Dark Flier		Lance, Magic	Luna, Galeforce, Tomefaire, Dual Guard+, 
 Lissa			Sage			Staff, Magic	Tomefaire, Dual Support+, Miracle, Renewal, Galeforce
 	Cleric > Pegasus Knight > Dark Flier> Valkyrie > War Cleric > Sage
 	Pass Galeforce
-Ricken!Owain	Sage			Magic, Staff	Vantage, Wrath, Galeforce, Luna/Astra, Tomefaire
+Ricken!Owain	Sage			Magic, Staff	Vantage, Wrath, Galeforce, Astra, Tomefaire
 	Myrmidon > Swordmaster > Berserker > Sage
 
 
