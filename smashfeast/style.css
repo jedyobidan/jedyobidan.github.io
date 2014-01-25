@@ -1,0 +1,19 @@
+body{
+	font-size: 0.8em;
+	font-family: sans-serif;
+	background: #AAF;
+	width:800px;
+	margin: 2px auto;
+}
+h1{
+	font-size: 2em;
+	border-bottom: 1px solid gray;
+}
+h2{
+	color: blue;
+	font-style: italic;
+	margin-bottom:5px;
+}
+p{
+	margin-top: 5px;
+}
